@@ -1,0 +1,1 @@
+A Hangman game implemented in Ruby with the abiliy to save and load previous games through serialization.
